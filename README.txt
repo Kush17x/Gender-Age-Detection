@@ -1,6 +1,6 @@
-# Gender-Age-Detection
+Gender-Age-Detection
 
-NOTE--- This GitHub Repository does not contain all the files needed to sucessfully run the code. There are two more files that are needed but they were too large.
+NOTE--- This GitHub Repository does not contain all the files needed to sucessfully run the code. There are two more files that are needed but they were too large. So here's a link to a google drive folder that has everything you need to work it: https://drive.google.com/drive/folders/1Vzu7fQq0pEUv6Lec92KRmbKqEQGkKqGi?usp=sharing
 
 Just a basic code using OpenCV & Python that will detect faces and assign the face with a gender and age.
 
